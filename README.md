@@ -13,15 +13,15 @@ MoviesApp is a simple web application that allows users to search for movie titl
 
 To get started with MoviesApp, simply clone the repository and open the `index.html` file in your web browser.
 
-$ git clone https://github.com/yourusername/MoviesApp.git
-$ cd MoviesApp
+    git clone https://github.com/yourusername/MoviesApp.git
+    cd MoviesApp
 
 
 Open the `index.html` file in your preferred web browser.
 
 ## Technologies Used
 
-- OMDB API: A RESTful web service to obtain movie information
+- [OMDb API](http://www.omdbapi.com): A RESTful web service to obtain movie information
 - Ajax: Asynchronous JavaScript and XML for real-time data retrieval without page refresh
 - CSS: Styling the user interface for an engaging and visually appealing experience
 - JavaScript: Handling user input, API calls, and dynamic content manipulation
@@ -47,6 +47,6 @@ Contributions from the community are welcome! If you would like to contribute to
 MoviesApp is released under the MIT License.
 
 ## Acknowledgments
-OMDb API for providing the movie data
+[OMDb API](http://www.omdbapi.com) for providing the movie data
 
 
