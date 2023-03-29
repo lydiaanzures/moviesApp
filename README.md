@@ -42,6 +42,7 @@ Contributions from the community are welcome! If you would like to contribute to
 <li>Commit your changes (git commit -m 'Add my feature')
 <li>Push to your branch (git push origin feature/my-feature)
 <li>Open a pull request
+</ol>
 
 ## License
 MoviesApp is released under the MIT License.
