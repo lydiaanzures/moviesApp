@@ -1,6 +1,8 @@
 
 # MoviesApp
 
+[Visit the deployed Github project page](https://lydiaanzures.github.io/moviesApp/s)
+
 MoviesApp is a simple web application that allows users to search for movie titles and retrieve relevant movie information such as director, cast, ratings, and more. The application utilizes the OMDB API, Ajax, CSS, and JavaScript to create a seamless and visually appealing user experience.
 
 ## Features
