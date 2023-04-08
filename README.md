@@ -49,6 +49,7 @@ Contributions from the community are welcome! If you would like to contribute to
 ## License
 MoviesApp is released under the MIT License.
 
+
 ## Acknowledgments
 [OMDb API](http://www.omdbapi.com) for providing the movie data
 
